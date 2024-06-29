@@ -1,0 +1,1 @@
+<script>console.log("en el head con fichero js")</script>

@@ -1,0 +1,1 @@
+<script>console.log("fuera de html con fichero")</script>
