@@ -43,3 +43,15 @@ c=a
 a=b
 b=c
 console.log(a,b)//2,1
+
+
+gos= "🐶";
+gat= "😺";
+koala = "🐨";
+
+animals = [gos,gat,koala];
+
+animalsReplica= animals;
+
+console.log(animals);
+
