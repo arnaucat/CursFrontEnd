@@ -49,9 +49,11 @@ gos= "🐶";
 gat= "😺";
 koala = "🐨";
 
+
+
 animals = [gos,gat,koala];
 
 animalsReplica= animals;
 
-console.log(animals);
+console.log('El array te ${animals} elements');
 
