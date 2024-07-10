@@ -18,6 +18,7 @@ console.log("completo "+dni)
 const nomsubtitut = "Omar";
 console.log(text.replace(nomsubtitut, 'xxxx'));
 
+
 //replaceAll()
 
 //split()
@@ -28,3 +29,8 @@ console.log(text.replace(nomsubtitut, 'xxxx'));
 
 //.slide()
 
+//indexOf
+
+nom="arnau"
+console.log(text.indexOf(nom));
+console.log(text.slice(text.indexOf(nom),text.indexOf(nom).lenght));
